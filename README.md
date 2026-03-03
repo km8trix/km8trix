@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Spencer Karrat</h1>
-<h3 align="center">A passionate full stack developer from NYC, New York</h3>
+<h3 align="center">An inquisitive full stack developer from NYC, New York</h3>
 
-- 🔭 I’m currently working on **full stack development in my current role at SmartPay Solutions.**
+- 🔭 I’m currently working on **Automation and Full Stack Projects at VirtuIT Systems Inc.**
 
-- 🌱 I’m currently learning **how to use the OpenAI gpt-4 API.**
+- 🌱 I’m currently learning **how to develop and host scalable AI Applications.**
 
 - 📫 How to reach me **spencerkarrat2000@gmail.com**
 
-- ⚡ Fun fact **I have lived in 8 different countries.**
+- ⚡ Fun fact **Even though I'm American, I have lived in 8 different countries and grew up overseas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
