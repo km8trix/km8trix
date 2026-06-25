@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **spencerkarrat2000@gmail.com**
 
-- ⚡ Fun fact **Even though I'm American, I have lived in 8 different countries and grew up overseas.**
+- ⚡ Fun fact **even though I'm American, I have lived in 8 different countries and grew up overseas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
