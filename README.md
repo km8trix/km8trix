@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full stack projects pertaining to finance and e-commerce.<br>👯 I’m looking to collaborate on any opportunities learn more about AI Agent Development and Cybersecurity.<br>🤝 I’m looking for help with using automated backtesting to determine if trading signals are effective.<br>🌱 I’m currently learning how to develop and host scalable AI Applications leveraging Claude/Codex.<br>💬 Ask me about my AutoQuantTrader project.<br>⚡ Fun fact I was born in NY but I’ve lived in 8 different countries and grew up overseas.
+🔭 I’m currently working on **full stack projects pertaining to finance and e-commerce**.<br>👯 I’m looking to collaborate on any opportunities learn more about **AI Agent Development and Cybersecurity**.<br>🤝 I’m looking for help with using automated backtesting to determine if trading signals are effective.<br>🌱 I’m currently learning how to develop and host scalable AI Applications leveraging Claude/Codex.<br>💬 Ask me about my AutoQuantTrader project.<br>⚡ Fun fact I was born in NY but I’ve lived in 8 different countries and grew up overseas.
 
 
 ## 🌐 Socials:
@@ -15,7 +15,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=km8trix&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=km8trix&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
