@@ -12,8 +12,4 @@
 ![](https://streak-stats.demolab.com/?user=km8trix&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=km8trix&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=km8trix&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
