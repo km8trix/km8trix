@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Spencer Karrat</h1>
 <h3 align="center">An inquisitive full stack developer from NYC, New York</h3>
 
-- 🔭 I’m currently working on **Automation and Full Stack Projects at VirtuIT Systems Inc.**
+- 🔭 I’m currently working on **Full Stack Projects pertaining to finance and e-commerce**
 
-- 🌱 I’m currently learning **how to develop and host scalable AI Applications.**
+- 🌱 I’m currently learning **how to develop and host scalable AI Applications** leveraging Claude/Codex.
 
 - 📫 How to reach me **spencerkarrat2000@gmail.com**
 
-- ⚡ Fun fact **even though I'm American, I have lived in 8 different countries and grew up overseas.**
+- ⚡ Fun fact **even though I'm American, I've lived in 8 different countries and grew up overseas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
