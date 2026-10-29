@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Spencer Karrat</h1>
 <h3 align="center">An inquisitive full stack developer from NYC, New York</h3>
 
-- 🔭 I’m currently working on **Full Stack Projects pertaining to finance and e-commerce**
+- 🔭 I’m currently working on **Full Stack Projects pertaining to finance and e-commerce.**
 
 - 🌱 I’m currently learning **how to develop and host scalable AI Applications** leveraging Claude/Codex.
 
